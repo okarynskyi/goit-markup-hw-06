@@ -360,7 +360,7 @@ img {
 }
 
 .contact-form-checkbox:checked+.contact-form-checkbox-label::before {
-  background-image: url('../images/checkbox.svg');
+  background-image: url('./images/checkbox.svg');
   background-color: var(--accent-color);
   border-color: var(--accent-color);
 }
